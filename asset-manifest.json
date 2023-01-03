@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react/samsung/static/css/main.ef2e1b57.css",
+    "main.js": "/react/samsung/static/js/main.e6666087.js",
+    "index.html": "/react/samsung/index.html",
+    "main.ef2e1b57.css.map": "/react/samsung/static/css/main.ef2e1b57.css.map",
+    "main.e6666087.js.map": "/react/samsung/static/js/main.e6666087.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef2e1b57.css",
+    "static/js/main.e6666087.js"
+  ]
+}
